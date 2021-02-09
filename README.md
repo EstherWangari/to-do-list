@@ -21,10 +21,10 @@ this is my own to-do-list project.It checks off when you're done with something 
 * fontawesome
 
 ## Live Demo
-to view live demo (https://estherwangari.github.io/to-do-list/)
+to view live demo (https://wangarigikonyo.github.io/to-do-list/)
 
 ## Support and Contact
-* [Github](https://github.com/EstherWangari)
+* [Github](https://github.com/WangariGikonyo)
 * [Gmail](mailto:wangarie0@gmail.com)
 
 ## LICENCE (c) (2018)
